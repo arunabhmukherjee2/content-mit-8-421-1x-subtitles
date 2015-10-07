@@ -113,11 +113,11 @@ for this photon number state.
 So, in other words, these are the two ways
 how we can relatively easily treat the problem.
 Either we assume the quantum field is in a coherent state
-or it's in a flux state.
+or it's in a fock state.
 But, since the dressed atom picture in the standard way
 assumes that the photon number, N, is large,
 there is a correspondence that in the limit of N
-being large the flux state description
+being large the fock state description
 and the coherent state description fully agree.
 
 And you pick what you want.
@@ -141,7 +141,7 @@ actually write down the general solution
 for this Hamiltonian an exercise.
 Nancy.
 I think I'm confused a little bit.
-So, in the flux state picture, the dressed states
+So, in the fock state picture, the dressed states
 can be exactly part of an independent matter of coupling
 between a lesser photon number in an excited state.
 So, we can write eN plus 1 and g, or something like that.
@@ -155,7 +155,7 @@ What do the dressed states mean at this point?
 Well, the fact is if you start out with a coherent state,
 your photon field is not in photons, it's a laser beam.
 The laser beam with a coherent state,
-is in a quantized description, a superposition of many flux
+is in a quantized description, a superposition of many fock
 states.
 So, therefore, the number photons in a coherent state
 fluctuates, or has a large Poissonian statistics,
